@@ -4,6 +4,7 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   color: #404040;
+  padding-top: 20px;
 }
 
 header {
@@ -80,6 +81,8 @@ textarea {
   padding: 5px;
   font-size: 14px;
   margin-bottom: 10px;
+  border-radius: 10px;
+  margin-top: 10px;
 }
 
 form button[type="submit"] {
@@ -87,10 +90,11 @@ form button[type="submit"] {
   font-size: 16px;
   font-weight: 600;
   text-transform: uppercase;
-  background-color: #f1a458;
+  background-color: #5881f1;
   color: #fff;
   padding: 7px 10px;
   cursor: pointer;
+  border-radius: 50px;
 }
 
 #review-list li {
